@@ -1,0 +1,28 @@
+.main {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #01579B;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 70px 287px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+li a:hover {
+    background-color: #ACE39A;
+}
+
+body {
+    background-color: #ECEFF1;
+}
